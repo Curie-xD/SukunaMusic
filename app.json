@@ -1,5 +1,5 @@
 {
-    "name": "Amaze Music",
+    "name": "Sukuna Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls. By ALPHA",
     "logo": "https://graph.org/file/7c53a2db3236cac20c1f2.jpg",
     "keywords": [
@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-   "repository": "https://github.com/SHADOW-04/AmazeMusic",
+   "repository": "https://github.com/Curie-xD/SukunaMusic",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
@@ -65,7 +65,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Your REPO url here.",
-        "value": "Https://github.com/SHADOW-04/AmazeMusic",
+        "value": "https://github.com/Curie-xD/SukunaMusic",
         "required": false
       },
       "UPSTREAM_BRANCH": {
